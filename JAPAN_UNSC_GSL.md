@@ -200,6 +200,52 @@ These use the prep-PPT formula: **POSITION → REASON → RESPONSE OR COMPROMISE
 
 ---
 
+## 3B. TWO TRAP QUESTIONS FOR JAPAN TO ASK
+
+Both questions are built as **double binds**: any answer the delegate gives hurts them. The follow-up then turns their answer into support for a clause in the resolution.
+
+### Q1 → CHINA
+
+> "Honourable delegate of China: China is the world's largest oil importer, and its imports fell almost 40 percent after Hormuz closed. Yet on 7 April, China vetoed the draft that would have let states escort merchant ships through the strait. Meanwhile, reports say Iran's toll system accepts payment in yuan. So, yes or no: will China say on record today that passage through Hormuz must be free, and that no Chinese ship will pay a single yuan to cross it?"
+
+**Short version (if the Chair wants it brief):** "Yes or no: will China state today that no Chinese ship will pay a single yuan to cross Hormuz?"
+
+**Why it traps them:**
+- If China says **YES**, it breaks publicly with Iran's toll system and then has to explain why it vetoed the protection draft.
+- If China says **NO** or dodges, it is accepting tolls on an international strait. That breaks UNCLOS, which China itself has signed.
+
+**Follow-up if they dodge:** "Then will China co-sponsor a clause saying no state may demand any fee, any flag, or any currency for passage through Hormuz?"
+
+### Q2 → UNITED STATES
+
+> "Honourable delegate of the United States, Japan asks this as a close ally. The US says Iran must not charge tolls in Hormuz. But on 8 April, President Trump said a toll could be a 'joint venture' with Iran, and called it 'a beautiful thing.' The EU and the IMO say no law allows any toll on an international strait. So is the United States against Hormuz tolls in principle, or only against tolls it does not collect?"
+
+**Short version:** "Is the US against Hormuz tolls in principle, or only against tolls it does not collect?"
+
+**Why it traps them:**
+- If the US says **"in principle"**, it has to back a no-fee clause and contradict its own President's words.
+- If it says **"it depends"**, it admits a double standard, and its case against Iran weakens.
+- **Bonus:** asking your own ally a hard question proves Japan is not "just following the US."
+
+**Follow-up if they dodge:** "Then will the United States support a clause stating that no state, *including the United States*, may charge any fee for passage through Hormuz?"
+
+### Delivery tips
+- Ask the question, then **stop talking**. Don't argue. Let the silence work.
+- If someone says "that's not true," name the source calmly:
+  - Trump quote: ABC News, Jonathan Karl, 8 April 2026
+  - China veto: UN press release SC/16330, 7 April 2026
+  - Yuan tolls: Lloyd's List and Bloomberg reporting, March–April 2026
+- Say "reports say" for the yuan tolls. Iran never officially confirmed that system.
+
+**Sources:**
+- Trump "joint venture" / "beautiful thing": https://www.aol.com/articles/trump-says-charging-countries-strait-143204563.html and https://x.com/jonkarl/status/2041839012097229086
+- EU rejects any Hormuz toll: https://www.euronews.com/2026/04/09/eu-rejects-trumps-joint-venture-to-charge-ships-through-the-strait-of-hormuz
+- China and Russia veto (7 Apr 2026): https://press.un.org/en/2026/sc16330.doc.htm
+- Yuan tolls: https://fortune.com/2026/03/26/iran-toll-strait-of-hormuz-oil-paid-in-yuan/ and https://www.dailynewsegypt.com/2026/04/04/irans-revolutionary-guard-imposes-yuan-based-tolls-for-strait-of-hormuz-transit-bloomberg/
+- China's crude imports down about 40% (Feb–May 2026): https://www.api.org/energy-insights/charts-analysis/china-crude-imports-have-declined
+
+---
+
 ## 4. CORRECTIONS TO THE DOSSIER AND QUICK-REVISION SHEET
 
 These points in your source files are wrong or outdated. **Do not say them in committee.**
