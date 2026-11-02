@@ -46,6 +46,38 @@ Qatar was mediating on Hormuz in the last week of October 2026, so **check the n
 
 ---
 
+## 1B. GSL #2 (65 seconds): for your second time on the Speakers' List
+
+Use this one later in committee, once debate has started. It moves the room from talking to drafting.
+
+> Honourable Chair, delegates,
+>
+> Think of one oil tanker leaving the Gulf for Europe. It must pass Hormuz, then Bab el-Mandeb, then Suez. If even one is blocked, the whole journey fails. That is how connected this crisis is.
+>
+> Today, two of those three are under attack. In Hormuz, ships are hit and sailors are stuck. In the Red Sea, the Houthis are attacking again. And on land, the Gaza ceasefire is still fragile, and aid is far below what people need.
+>
+> But this room agrees on more than we think. Nobody here wants closed seas. Nobody wants sailors trapped. Nobody wants a wider war.
+>
+> So let us turn that agreement into action. Japan will build a resolution with four parts: a safe corridor for stranded sailors, hotlines between navies, no fees to cross international straits, and full support for the Gaza ceasefire and aid.
+>
+> Japan invites every delegation to help write it. Security through law. Trade through open seas. Peace through dialogue. Thank you.
+
+**Length:** about 164 words, roughly 65 seconds.
+
+### Memory trick: count 1 → 2 → 3 → 4
+
+| Number | Block | Key words |
+|---|---|---|
+| **1** | **One** tanker | *Hormuz, Bab el-Mandeb, Suez; one blocked, journey fails* |
+| **2** | **Two** under attack | *Hormuz (ships hit, sailors stuck), Red Sea (Houthis again), plus Gaza fragile* |
+| **3** | **Three** "Nobody wants" | *closed seas, sailors trapped, wider war* |
+| **4** | **Four** parts | *corridor, hotlines, no fees, Gaza ceasefire and aid* |
+| | Motto | *law, open seas, dialogue* |
+
+The tanker route comes from the class Middle East PPT, slide 19 ("Single Point Failure"), so the chairs will recognise it.
+
+---
+
 ## 2. MODERATED CAUCUS SPEECHES (about 45 seconds each)
 
 Pick the speech that matches the mod topic:
