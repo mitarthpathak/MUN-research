@@ -200,7 +200,7 @@ These use the prep-PPT formula: **POSITION → REASON → RESPONSE OR COMPROMISE
 
 ---
 
-## 3B. TWO TRAP QUESTIONS FOR JAPAN TO ASK
+## 3B. TRAP QUESTIONS FOR JAPAN TO ASK
 
 Both questions are built as **double binds**: any answer the delegate gives hurts them. The follow-up then turns their answer into support for a clause in the resolution.
 
@@ -229,6 +229,33 @@ Both questions are built as **double binds**: any answer the delegate gives hurt
 
 **Follow-up if they dodge:** "Then will the United States support a clause stating that no state, *including the United States*, may charge any fee for passage through Hormuz?"
 
+### Q3 → SAUDI ARABIA
+
+> "Honourable delegate of Saudi Arabia, Japan stands with you against the attacks on your territory. But in 2023, China brokered your peace deal with Iran in Beijing. In 2026, Iran attacked Saudi Arabia anyway. And on 7 April, when Saudi Arabia co-sponsored a draft to protect ships in Hormuz, China vetoed it. So which is it: did Beijing's peace deal fail, or did Beijing choose Tehran over Riyadh?"
+
+**Short version:** "Did Beijing's peace deal fail, or did Beijing choose Tehran over Riyadh?"
+
+**Why it traps them:**
+- If Saudi Arabia says **"the deal failed"**, it is admitting its own flagship diplomacy collapsed.
+- If it says **"China chose Iran"**, it is publicly accusing its biggest oil customer, in front of the Chinese delegate.
+- Either way, the question drives a wedge between Saudi Arabia and China, and Japan becomes the more reliable partner in the room.
+
+**Follow-up if they dodge:** "Then will Saudi Arabia support Japan's position that the future of Hormuz must be decided by coastal states, user states and the IMO, and not by any single great power?"
+
+### Q4 → UAE
+
+> "Honourable delegate of the UAE, this committee is debating the militarization of strategic waterways. AP satellite images showed a new runway built on Yemen's Abd al-Kuri island, on the Gulf of Aden route to Bab el-Mandeb, with 'I LOVE UAE' spelled out beside it. The UAE called its presence there humanitarian. But when Iran keeps forces on Abu Musa and the Tunbs near Hormuz, the UAE calls it occupation. So is a runway on someone else's island beside a sea lane militarization or not, and if it is, why should only Iran's count?"
+
+**Short version:** "Is a runway on someone else's island beside a sea lane militarization, or does it only count when Iran does it?"
+
+**Why it traps them:**
+- If the UAE says **"yes, it's militarization"**, it is admitting it did exactly what this agenda condemns.
+- If it says **"no"**, it loses its own argument against Iran on Abu Musa and the Tunbs. (Abu Musa is on the Hormuz map in your Middle East PPT, slide 37.)
+
+**If they say "we withdrew from Yemen":** "The UAE left only after the Saudi-led coalition struck an Emirati shipment at Mukalla in December 2025, and Yemen gave Emirati forces 24 hours to leave. That was not a choice."
+
+**Follow-up:** "Then will the UAE support a clause requiring every state, the UAE and Iran alike, to declare all military facilities near Hormuz, Bab el-Mandeb and the Gulf of Aden to this Council?" This ties straight into Japan's information-sharing proposal.
+
 ### Delivery tips
 - Ask the question, then **stop talking**. Don't argue. Let the silence work.
 - If someone says "that's not true," name the source calmly:
@@ -243,6 +270,10 @@ Both questions are built as **double binds**: any answer the delegate gives hurt
 - China and Russia veto (7 Apr 2026): https://press.un.org/en/2026/sc16330.doc.htm
 - Yuan tolls: https://fortune.com/2026/03/26/iran-toll-strait-of-hormuz-oil-paid-in-yuan/ and https://www.dailynewsegypt.com/2026/04/04/irans-revolutionary-guard-imposes-yuan-based-tolls-for-strait-of-hormuz-transit-bloomberg/
 - China's crude imports down about 40% (Feb–May 2026): https://www.api.org/energy-insights/charts-analysis/china-crude-imports-have-declined
+- Hormuz draft co-sponsors (Bahrain, Jordan, Kuwait, Qatar, Saudi Arabia, UAE) and China's reason for its veto: https://news.un.org/en/story/2026/04/1167261 and https://www.france24.com/en/live-news/20260407-russia-china-veto-un-resolution-on-reopening-strait-of-hormuz
+- UNSCR 2817, condemning Iran's attacks on Saudi Arabia, the UAE and others: https://unscr.com/en/resolutions/2817/
+- AP, "I LOVE UAE" airstrip on Abd al-Kuri: https://www.nbcnews.com/news/world/israel-hamas-war-yemen-houthis-airstrip-red-sea-gulf-aden-i-love-uae-rcna145425 and https://www.defensenews.com/global/mideast-africa/2025/01/17/amid-houthi-threats-a-mysterious-airstrip-appears-on-yemeni-island/
+- UAE forces leave Yemen after the Mukalla strike (Dec 2025): https://www.longwarjournal.org/archives/2025/12/uae-forces-to-depart-yemen-after-saudi-demands-strikes.php
 
 ---
 
